@@ -1,0 +1,6 @@
+id,names,days
+1,Yanvar,31
+2,Fevral,28
+3,Mart,31
+4,Aprel,30
+5,May,31

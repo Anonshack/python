@@ -1,0 +1,4 @@
+id,names
+1,Kozimjonov K
+2,Umaarov S
+3,Olimov Q
